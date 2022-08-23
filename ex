@@ -1,1 +1,1 @@
-3.2.4|https://share.crondata.net/go/extension-cron-data#_=_
+3.2.2|https://share.crondata.net/go/extension-cron-data#_=_
